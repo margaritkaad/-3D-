@@ -368,6 +368,6 @@ class SeaShellPlotter:
 
 # Запуск приложения
 root = tk.Tk()
-root.title("Sea Shell Surface Plotter with Enhanced Controls")
+root.title("Sea Shell Surface Plotter")
 plotter = SeaShellPlotter(root)
 root.mainloop()
